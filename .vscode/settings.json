@@ -4,5 +4,6 @@
         "googleusercontent",
         "Iparams",
         "zustand"
-    ]
+    ],
+    "editor.acceptSuggestionOnEnter": "on"
 }
